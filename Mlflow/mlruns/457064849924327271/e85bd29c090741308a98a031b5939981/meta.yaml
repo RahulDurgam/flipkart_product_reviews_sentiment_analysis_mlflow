@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shree/OneDrive/Desktop/DataScience/innomatics/Part%203%20Machine%20Learning%20and%20MLOPs/Flipkart_product_reviews_sentiment_analysis/mlruns/457064849924327271/e85bd29c090741308a98a031b5939981/artifacts
+end_time: 1711646240914
+entry_point_name: ''
+experiment_id: '457064849924327271'
+lifecycle_stage: active
+run_id: e85bd29c090741308a98a031b5939981
+run_name: victorious-fowl-656
+run_uuid: e85bd29c090741308a98a031b5939981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711642686360
+status: 3
+tags: []
+user_id: shree

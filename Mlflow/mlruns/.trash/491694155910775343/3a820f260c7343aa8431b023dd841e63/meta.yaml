@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/shree/OneDrive/Desktop/DataScience/innomatics/Part%203%20Machine%20Learning%20and%20MLOPs/Flipkart_product_reviews_sentiment_analysis/mlruns/491694155910775343/3a820f260c7343aa8431b023dd841e63/artifacts
+deleted_time: 1711641220677
+end_time: 1711543663023
+entry_point_name: ''
+experiment_id: '491694155910775343'
+lifecycle_stage: deleted
+run_id: 3a820f260c7343aa8431b023dd841e63
+run_name: brawny-shrimp-947
+run_uuid: 3a820f260c7343aa8431b023dd841e63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711542485722
+status: 3
+tags: []
+user_id: shree

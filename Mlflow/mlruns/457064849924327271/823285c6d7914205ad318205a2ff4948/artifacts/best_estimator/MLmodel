@@ -1,0 +1,24 @@
+artifact_path: best_estimator
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.1.post1
+mlflow_version: 2.11.3
+model_size_bytes: 464021
+model_uuid: 5b28de9a6f804f47b0e721abf7534ee7
+run_id: 823285c6d7914205ad318205a2ff4948
+signature:
+  inputs: '[{"type": "string", "name": "review_text", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-03-28 17:17:12.026172'

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/shree/OneDrive/Desktop/DataScience/innomatics/Part%203%20Machine%20Learning%20and%20MLOPs/Flipkart_product_reviews_sentiment_analysis/mlruns/491694155910775343/c3946d032ab34881bd41a56d864fe468/artifacts
+deleted_time: 1711641220677
+end_time: 1711544598456
+entry_point_name: ''
+experiment_id: '491694155910775343'
+lifecycle_stage: deleted
+run_id: c3946d032ab34881bd41a56d864fe468
+run_name: able-toad-771
+run_uuid: c3946d032ab34881bd41a56d864fe468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711544508956
+status: 3
+tags: []
+user_id: shree

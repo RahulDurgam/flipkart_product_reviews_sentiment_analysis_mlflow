@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/shree/OneDrive/Desktop/DataScience/innomatics/Part%203%20Machine%20Learning%20and%20MLOPs/Flipkart_product_reviews_sentiment_analysis/mlruns/491694155910775343/4f40e272bd2642b4bb12836691055f1d/artifacts
+deleted_time: 1711641220677
+end_time: 1711552789356
+entry_point_name: ''
+experiment_id: '491694155910775343'
+lifecycle_stage: deleted
+run_id: 4f40e272bd2642b4bb12836691055f1d
+run_name: trusting-grouse-597
+run_uuid: 4f40e272bd2642b4bb12836691055f1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711552735342
+status: 3
+tags: []
+user_id: shree

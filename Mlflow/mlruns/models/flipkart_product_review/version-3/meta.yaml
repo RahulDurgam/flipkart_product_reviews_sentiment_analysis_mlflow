@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1711654548924
+current_stage: Archived
+description: ''
+last_updated_timestamp: 1711655125984
+name: flipkart_product_review
+run_id: d4ce87bae90e428592affda78b869a95
+run_link: ''
+source: file:///C:/Users/shree/OneDrive/Desktop/DataScience/innomatics/Part%203%20Machine%20Learning%20and%20MLOPs/Flipkart_product_reviews_sentiment_analysis/mlruns/457064849924327271/d4ce87bae90e428592affda78b869a95/artifacts/best_estimator
+status: READY
+status_message: null
+storage_location: file:///C:/Users/shree/OneDrive/Desktop/DataScience/innomatics/Part%203%20Machine%20Learning%20and%20MLOPs/Flipkart_product_reviews_sentiment_analysis/mlruns/457064849924327271/d4ce87bae90e428592affda78b869a95/artifacts/best_estimator
+user_id: null
+version: 3

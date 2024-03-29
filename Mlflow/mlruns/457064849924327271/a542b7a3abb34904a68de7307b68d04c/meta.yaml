@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shree/OneDrive/Desktop/DataScience/innomatics/Part%203%20Machine%20Learning%20and%20MLOPs/Flipkart_product_reviews_sentiment_analysis/mlruns/457064849924327271/a542b7a3abb34904a68de7307b68d04c/artifacts
+end_time: 1711694650797
+entry_point_name: ''
+experiment_id: '457064849924327271'
+lifecycle_stage: active
+run_id: a542b7a3abb34904a68de7307b68d04c
+run_name: youthful-fowl-514
+run_uuid: a542b7a3abb34904a68de7307b68d04c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711694593345
+status: 3
+tags: []
+user_id: shree

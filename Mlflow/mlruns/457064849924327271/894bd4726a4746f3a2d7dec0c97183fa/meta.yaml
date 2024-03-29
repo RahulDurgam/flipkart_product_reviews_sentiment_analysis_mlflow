@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shree/OneDrive/Desktop/DataScience/innomatics/Part%203%20Machine%20Learning%20and%20MLOPs/Flipkart_product_reviews_sentiment_analysis/mlruns/457064849924327271/894bd4726a4746f3a2d7dec0c97183fa/artifacts
+end_time: 1711695116057
+entry_point_name: ''
+experiment_id: '457064849924327271'
+lifecycle_stage: active
+run_id: 894bd4726a4746f3a2d7dec0c97183fa
+run_name: big-stag-356
+run_uuid: 894bd4726a4746f3a2d7dec0c97183fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711695047052
+status: 3
+tags: []
+user_id: shree

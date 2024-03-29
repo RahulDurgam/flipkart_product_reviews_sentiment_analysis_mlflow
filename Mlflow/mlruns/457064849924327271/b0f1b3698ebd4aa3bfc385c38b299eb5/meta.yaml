@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shree/OneDrive/Desktop/DataScience/innomatics/Part%203%20Machine%20Learning%20and%20MLOPs/Flipkart_product_reviews_sentiment_analysis/mlruns/457064849924327271/b0f1b3698ebd4aa3bfc385c38b299eb5/artifacts
+end_time: 1711694584876
+entry_point_name: ''
+experiment_id: '457064849924327271'
+lifecycle_stage: active
+run_id: b0f1b3698ebd4aa3bfc385c38b299eb5
+run_name: dapper-sponge-282
+run_uuid: b0f1b3698ebd4aa3bfc385c38b299eb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711693364171
+status: 3
+tags: []
+user_id: shree

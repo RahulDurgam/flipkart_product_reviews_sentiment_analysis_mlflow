@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/shree/OneDrive/Desktop/DataScience/innomatics/Part%203%20Machine%20Learning%20and%20MLOPs/Flipkart_product_reviews_sentiment_analysis/mlruns/491694155910775343/96e92933441c4bb4bd53f1258085950e/artifacts
+deleted_time: 1711641220677
+end_time: null
+entry_point_name: ''
+experiment_id: '491694155910775343'
+lifecycle_stage: deleted
+run_id: 96e92933441c4bb4bd53f1258085950e
+run_name: traveling-mink-442
+run_uuid: 96e92933441c4bb4bd53f1258085950e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711540766590
+status: 1
+tags: []
+user_id: shree

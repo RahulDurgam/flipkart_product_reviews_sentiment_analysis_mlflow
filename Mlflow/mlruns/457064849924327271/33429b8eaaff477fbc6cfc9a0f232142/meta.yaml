@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shree/OneDrive/Desktop/DataScience/innomatics/Part%203%20Machine%20Learning%20and%20MLOPs/Flipkart_product_reviews_sentiment_analysis/mlruns/457064849924327271/33429b8eaaff477fbc6cfc9a0f232142/artifacts
+end_time: 1711695045059
+entry_point_name: ''
+experiment_id: '457064849924327271'
+lifecycle_stage: active
+run_id: 33429b8eaaff477fbc6cfc9a0f232142
+run_name: unequaled-boar-297
+run_uuid: 33429b8eaaff477fbc6cfc9a0f232142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711694654362
+status: 3
+tags: []
+user_id: shree

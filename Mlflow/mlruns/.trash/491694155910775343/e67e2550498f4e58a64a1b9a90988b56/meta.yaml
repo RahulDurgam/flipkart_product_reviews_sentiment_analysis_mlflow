@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/shree/OneDrive/Desktop/DataScience/innomatics/Part%203%20Machine%20Learning%20and%20MLOPs/Flipkart_product_reviews_sentiment_analysis/mlruns/491694155910775343/e67e2550498f4e58a64a1b9a90988b56/artifacts
+deleted_time: 1711641220677
+end_time: null
+entry_point_name: ''
+experiment_id: '491694155910775343'
+lifecycle_stage: deleted
+run_id: e67e2550498f4e58a64a1b9a90988b56
+run_name: zealous-hound-342
+run_uuid: e67e2550498f4e58a64a1b9a90988b56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711547409652
+status: 1
+tags: []
+user_id: shree

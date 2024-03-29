@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shree/OneDrive/Desktop/DataScience/innomatics/Part%203%20Machine%20Learning%20and%20MLOPs/Flipkart_product_reviews_sentiment_analysis/mlruns/457064849924327271/9adeb328fb694e05b066ccd169f89e4a/artifacts
+end_time: 1711646319259
+entry_point_name: ''
+experiment_id: '457064849924327271'
+lifecycle_stage: active
+run_id: 9adeb328fb694e05b066ccd169f89e4a
+run_name: luminous-lark-425
+run_uuid: 9adeb328fb694e05b066ccd169f89e4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711646251184
+status: 3
+tags: []
+user_id: shree

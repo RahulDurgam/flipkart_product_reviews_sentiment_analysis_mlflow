@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shree/OneDrive/Desktop/DataScience/innomatics/Part%203%20Machine%20Learning%20and%20MLOPs/Flipkart_product_reviews_sentiment_analysis/mlruns/457064849924327271/2b137a9211fa4e40946cc6c1a0bca419/artifacts
+end_time: 1711651126622
+entry_point_name: ''
+experiment_id: '457064849924327271'
+lifecycle_stage: active
+run_id: 2b137a9211fa4e40946cc6c1a0bca419
+run_name: whimsical-steed-310
+run_uuid: 2b137a9211fa4e40946cc6c1a0bca419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711651005307
+status: 3
+tags: []
+user_id: shree

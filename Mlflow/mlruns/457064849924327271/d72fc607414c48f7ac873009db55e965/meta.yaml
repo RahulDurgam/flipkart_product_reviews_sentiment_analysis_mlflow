@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shree/OneDrive/Desktop/DataScience/innomatics/Part%203%20Machine%20Learning%20and%20MLOPs/Flipkart_product_reviews_sentiment_analysis/mlruns/457064849924327271/d72fc607414c48f7ac873009db55e965/artifacts
+end_time: 1711646240914
+entry_point_name: ''
+experiment_id: '457064849924327271'
+lifecycle_stage: active
+run_id: d72fc607414c48f7ac873009db55e965
+run_name: gaudy-flea-109
+run_uuid: d72fc607414c48f7ac873009db55e965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711642686360
+status: 3
+tags: []
+user_id: shree

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/shree/OneDrive/Desktop/DataScience/innomatics/Part%203%20Machine%20Learning%20and%20MLOPs/Flipkart_product_reviews_sentiment_analysis/mlruns/491694155910775343/ee70a87808b14fd9b278e55e7ba0e983/artifacts
+deleted_time: 1711641220677
+end_time: 1711547395616
+entry_point_name: ''
+experiment_id: '491694155910775343'
+lifecycle_stage: deleted
+run_id: ee70a87808b14fd9b278e55e7ba0e983
+run_name: thoughtful-horse-514
+run_uuid: ee70a87808b14fd9b278e55e7ba0e983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711546296077
+status: 3
+tags: []
+user_id: shree

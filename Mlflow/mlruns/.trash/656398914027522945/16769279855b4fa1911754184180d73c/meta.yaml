@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/shree/OneDrive/Desktop/DataScience/innomatics/Part%203%20Machine%20Learning%20and%20MLOPs/Flipkart_product_reviews_sentiment_analysis/mlruns/656398914027522945/16769279855b4fa1911754184180d73c/artifacts
+deleted_time: 1711559578931
+end_time: 1711540143045
+entry_point_name: ''
+experiment_id: '656398914027522945'
+lifecycle_stage: deleted
+run_id: 16769279855b4fa1911754184180d73c
+run_name: efficient-stork-227
+run_uuid: 16769279855b4fa1911754184180d73c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711540138626
+status: 3
+tags: []
+user_id: shree

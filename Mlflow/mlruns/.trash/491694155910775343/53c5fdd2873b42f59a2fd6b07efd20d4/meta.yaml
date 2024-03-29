@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/shree/OneDrive/Desktop/DataScience/innomatics/Part%203%20Machine%20Learning%20and%20MLOPs/Flipkart_product_reviews_sentiment_analysis/mlruns/491694155910775343/53c5fdd2873b42f59a2fd6b07efd20d4/artifacts
+deleted_time: 1711641220677
+end_time: 1711552275717
+entry_point_name: ''
+experiment_id: '491694155910775343'
+lifecycle_stage: deleted
+run_id: 53c5fdd2873b42f59a2fd6b07efd20d4
+run_name: nebulous-squid-198
+run_uuid: 53c5fdd2873b42f59a2fd6b07efd20d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711550379978
+status: 3
+tags: []
+user_id: shree

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/shree/OneDrive/Desktop/DataScience/innomatics/Part%203%20Machine%20Learning%20and%20MLOPs/Flipkart_product_reviews_sentiment_analysis/mlruns/491694155910775343/51f141717b3b4af388a42af81abbce2f/artifacts
+deleted_time: 1711641220677
+end_time: 1711550370497
+entry_point_name: ''
+experiment_id: '491694155910775343'
+lifecycle_stage: deleted
+run_id: 51f141717b3b4af388a42af81abbce2f
+run_name: debonair-zebra-7
+run_uuid: 51f141717b3b4af388a42af81abbce2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711549564224
+status: 3
+tags: []
+user_id: shree

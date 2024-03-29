@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shree/OneDrive/Desktop/DataScience/innomatics/Part%203%20Machine%20Learning%20and%20MLOPs/Flipkart_product_reviews_sentiment_analysis/mlruns/457064849924327271/29dfc90820a5474f8be6d68bc68fd371/artifacts
+end_time: 1711695117899
+entry_point_name: ''
+experiment_id: '457064849924327271'
+lifecycle_stage: active
+run_id: 29dfc90820a5474f8be6d68bc68fd371
+run_name: gifted-pug-916
+run_uuid: 29dfc90820a5474f8be6d68bc68fd371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711695047052
+status: 3
+tags: []
+user_id: shree

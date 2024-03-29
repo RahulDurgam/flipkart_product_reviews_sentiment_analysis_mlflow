@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/shree/OneDrive/Desktop/DataScience/innomatics/Part%203%20Machine%20Learning%20and%20MLOPs/Flipkart_product_reviews_sentiment_analysis/mlruns/656398914027522945/a0e323d341fc4f338041d12f41a05551/artifacts
+deleted_time: 1711559578931
+end_time: 1711539843640
+entry_point_name: ''
+experiment_id: '656398914027522945'
+lifecycle_stage: deleted
+run_id: a0e323d341fc4f338041d12f41a05551
+run_name: casual-stag-896
+run_uuid: a0e323d341fc4f338041d12f41a05551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711539843480
+status: 4
+tags: []
+user_id: shree
